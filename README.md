@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=prod -DDATASOURCE_URL=jdbc:mysql://localhost/vollmed_api -jar target/api-0.0.1-SNAPSHOT.jar
